@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**R0beso/R0beso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### *- Look how good these projects display !!*
+###### Fortunately here you get the code 😎🔥
+<hr>
 
-Here are some ideas to get you started:
+### https://LANQ.com.mx/
+![uncapped_2022-10-02 19-31-57](https://user-images.githubusercontent.com/98356486/193487355-c4e4e00b-ae8e-417e-bd73-d53091a66eaf.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### <a href="https://github.com/R0beso/Card-Game-simulation">CARD GAME</a>
+![uncapped_2022-10-02 20-16-23](https://user-images.githubusercontent.com/98356486/193486542-ef8865d3-07a9-4e39-a9ac-e6348bb9314f.gif)
